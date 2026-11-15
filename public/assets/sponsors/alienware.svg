@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" fill="none">
+  <rect width="200" height="60" fill="#00FFAA" opacity="0.1" rx="8"/>
+  <text x="100" y="35" text-anchor="middle" fill="#00FFAA" font-family="Arial, sans-serif" font-size="18" font-weight="bold">ALIENWARE</text>
+  <circle cx="30" cy="30" r="15" stroke="#00FFAA" stroke-width="2" fill="none" opacity="0.6"/>
+  <circle cx="170" cy="30" r="15" stroke="#00FFAA" stroke-width="2" fill="none" opacity="0.6"/>
+</svg>
